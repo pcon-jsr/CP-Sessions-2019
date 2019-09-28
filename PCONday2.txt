@@ -1,0 +1,26 @@
+Day 2
+
+Lazy Propagation-
+
+References
+
+Hackerearth-- https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+
+Cp-Algorithms-- https://cp-algorithms.com/data_structures/segment_tree.html (see at the last of the page)
+
+Segment tree beats-- https://codeforces.com/blog/entry/57319
+
+
+Questions:
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/binary-modulo-841ce0c7/ (point update)
+
+https://www.codechef.com/problems/FLIPCOIN (Done in class)
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/monk-and-otakuland-1/
+
+https://www.codechef.com/SEPT17/problems/SEACO (Please try this one)
+
+https://codeforces.com/problemset/problem/722/C
+
+https://www.hackerrank.com/contests/pcon-round-2/challenges/simple-tree (based on segment tree beats- try after reading euler tour in tree)
