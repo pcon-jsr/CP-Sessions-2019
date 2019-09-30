@@ -1,0 +1,41 @@
+Day 3-4
+
+Trees and Graphs-
+
+References
+
+Hackerearth-- https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/ (BFS)
+	      https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/ (DFS)
+
+Cp-Algorithms-- https://cp-algorithms.com/graph/depth-first-search.html (DFS)
+		https://cp-algorithms.com/graph/breadth-first-search.html (BFS)
+		
+		
+Questions:
+
+1. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/sg-and-trees/ (Discussed on day 3 in class)
+
+2. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/monk-and-xor-tree/ (Discussed on day 4)
+
+3. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/words-and-trees-f9ef202c/
+
+4. https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/dhoom-4/
+
+5. https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/big-p-and-party-1/  (basic)
+
+6. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/little-monk-and-edge-count/ (must do)
+
+7. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/color-the-graph/ (checkout what is a bipartite graph after doing this one)
+
+8. https://www.codechef.com/problems/IITK1P10 (Similar question done in class)
+
+9. https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/till-the-end-of-the-time-d73ba7d1/
+
+10. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/little-shino-and-k-ancestor-57fdef57/
+
+11. https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/algorithm/big-p-and-the-road-less-travelled-1/
+
+12. https://www.codechef.com/problems/SWITOG (Segment tee + Tree)
+
+https://www.codechef.com/problems/CLOVER (tough one)
+
