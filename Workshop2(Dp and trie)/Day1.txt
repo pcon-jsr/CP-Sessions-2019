@@ -1,0 +1,15 @@
+Reference-------------------
+
+LIS-- https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
+Min cost path-- https://www.geeksforgeeks.org/min-cost-path-dp-6/
+Kadane's Algorithm-- https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+
+Questions discussed in class----------------
+
+1. https://www.hackerearth.com/challenges/competitive/code-monk-dynamic-programming/algorithm/samu-and-shopping/
+
+2. https://www.hackerearth.com/problem/algorithm/birthday-gift-3/description/
+
+
+Note- Questions for practice will be provided after second session.
