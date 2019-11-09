@@ -1,0 +1,44 @@
+
+Note-- More questions for practice of beginner and medium difficulty level will be added by tomorrow 5 PM.
+
+Reference-------------------
+
+0-1 knapsack problem -- https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
+Coin change problem(Minimum Coins)-- https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/
+Kadane's Algorithm-- https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+
+Questions discussed in class----------------
+
+1. https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/bike-trip/ (Toll problem)
+
+2. https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/knapsack-with-large-weights-33a2433a/ (modified knapsack)
+
+Solution reference-- https://ideone.com/8OtrNI
+
+
+3.https://codeforces.com/problemset/problem/1105/C (mod3 question)
+
+Solution reference-- https://codeforces.com/contest/1105/submission/64516976
+
+
+4.https://codeforces.com/problemset/problem/161/D (Dp on trees)
+
+Solution reference-- https://ideone.com/n2QTdo
+
+
+Questions for practice----------------
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/odd-even-subarrays-72ad69db/ (Easy)
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/once-upon-a-time-in-time-land/ (Easy)
+
+https://codeforces.com/problemset/problem/1249/E (Easy)
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/accomodation-a5c006f3/ (Easy)
+
+https://codeforces.com/problemset/problem/1221/D (Easy medium)
+
+https://codeforces.com/problemset/problem/44/H (Easy-medium)
+
+https://www.codechef.com/SNCK1A19/problems/CHEFADD (Kind of tough)
