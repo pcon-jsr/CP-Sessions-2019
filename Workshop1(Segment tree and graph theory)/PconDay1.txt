@@ -1,0 +1,24 @@
+Day 1
+
+Segment Trees-
+
+References
+
+Hackerearth-- https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/
+
+Cp-Algorithms-- https://cp-algorithms.com/data_structures/segment_tree.html
+
+Questions
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/shivam-and-expensive-birthday-gift-da58b2f0/ 
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/techno-tasks/  (done in class)
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/k-th-bit-faae0e0d/ 
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/help-mona/
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/monk-and-otakuland-1/description/
+
+
+
