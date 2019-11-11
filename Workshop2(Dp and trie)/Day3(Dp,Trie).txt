@@ -1,0 +1,26 @@
+
+Trie-
+
+References---------------
+
+Hackerearth-- https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/
+
+Questions discussed in class----------
+
+https://codeforces.com/problemset/problem/264/B (DP)
+
+https://codeforces.com/problemset/problem/1051/D (DP)
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/dummy4-2/ (Trie)
+
+Practice----
+https://www.codechef.com/JUNE18B/problems/SHKSTR
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/cost-of-data-11/
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/search-engine/
+
+https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/prasanjeet-verma-and-his-sorrow/
+
+
+
