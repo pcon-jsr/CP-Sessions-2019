@@ -49,6 +49,8 @@ https://codeforces.com/problemset/problem/1221/D (Easy medium)
 
 https://codeforces.com/problemset/problem/44/H (Easy-medium)
 
+https://codeforces.com/problemset/problem/431/C (Easy-medium,New)
+
 https://codeforces.com/problemset/problem/486/D (Medium-Hard,New)
 
 https://www.codechef.com/SNCK1A19/problems/CHEFADD (Kind of tough)
