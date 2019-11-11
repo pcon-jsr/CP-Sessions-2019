@@ -1,6 +1,4 @@
 
-Note-- More questions for practice of beginner and medium difficulty level will be added by tomorrow 5 PM.
-
 Reference-------------------
 
 0-1 knapsack problem -- https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
@@ -37,8 +35,20 @@ https://codeforces.com/problemset/problem/1249/E (Easy)
 
 https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/accomodation-a5c006f3/ (Easy)
 
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/xsquare-and-chocolates-bars-2/ (Easy,New)
+
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/sumits-sub-array-and-sub-sequence/ (Easy,New)
+
+https://codeforces.com/problemset/problem/106/C (1600,New)
+
+https://codeforces.com/problemset/problem/474/D (Medium,New)
+
+https://codeforces.com/problemset/problem/1096/D (Medium,New)
+
 https://codeforces.com/problemset/problem/1221/D (Easy medium)
 
 https://codeforces.com/problemset/problem/44/H (Easy-medium)
+
+https://codeforces.com/problemset/problem/486/D (Medium-Hard,New)
 
 https://www.codechef.com/SNCK1A19/problems/CHEFADD (Kind of tough)
